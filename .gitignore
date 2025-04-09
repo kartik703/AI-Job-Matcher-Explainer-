@@ -1,0 +1,19 @@
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Logs and junk
+*.log
+*.csv
+*.pdf
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
